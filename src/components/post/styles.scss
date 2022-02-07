@@ -1,0 +1,34 @@
+.post-block {
+    background-color: white;
+    padding: 10px;
+    margin-bottom: 20px;
+
+    .title-block {
+        text-align: left;
+        display: flex;
+        justify-content: space-between;
+        padding-bottom: 5px;
+        border-bottom: 1px solid #c7c7c7;
+
+        .title {
+            font-weight: bold;
+        }
+        .delete-icon {
+            width: 12px;
+            cursor: pointer;
+        }
+    }
+
+    .image-block {
+        img {
+            width: 100%;
+        }
+    }
+
+    .description-block {
+        text-align: left;
+        .description {
+            font-size: .8rem;
+        }
+    }
+}

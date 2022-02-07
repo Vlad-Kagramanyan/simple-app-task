@@ -1,0 +1,15 @@
+.input-block {
+  width: 100%;
+  text-align: left;
+
+  .input-field {
+    width: 100%;
+    font-weight: 400;
+    font-size: 1rem;
+    border: 1px solid #c7c7c7;
+    border-radius: 4px;
+    outline: none;
+    min-width: 64px;
+    padding: 6px 16px;
+  } 
+}

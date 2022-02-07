@@ -1,0 +1,24 @@
+.App-header {
+    background-color: #282c34;
+    height: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    font-size: 1rem;
+    color: white;
+    align-self: flex-end;
+    padding: 0 20px;
+
+    .user-name {
+        margin-right: 20px;
+    }
+
+    nav {
+        margin-right: 40px;
+    }
+
+    a {
+        color: #61dafb;
+        margin-right: 20px;
+      }
+  }
